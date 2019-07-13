@@ -54,11 +54,11 @@ client2.on('message', message => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!dezx') {
+if (message.content === '!xd3rx') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**123**[ " ${x} " ]`)
+        message.channel.send(`**فلوس فلوس كرف كرف**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -68,11 +68,11 @@ if (message.content === '!dezx') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!dezx') {
+if (message.content === '!xd3rx') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**123 **[ " ${x} " ]`)
+        message.channel.send(`**فلوس فلوس كرف كرف **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
